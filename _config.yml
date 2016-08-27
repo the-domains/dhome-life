@@ -12,5 +12,10 @@ color:
     - '#FFFFEC'
 layout_spectrum: 0.7802012795582414
 name: dHome Life
+navigation:
+  - name: Where we are...
+    url: >-
+      https://www.google.ca/maps/place/Lacombe,+AB/@52.4741569,-113.754526,5674m/data=!3m1!1e3!4m5!3m4!1s0x5375040ffd48d5b3:0xd6b4de90543de5a9!8m2!3d52.4630512!4d-113.7286242
+    type: external
 title: dHome Life
 description: Adventures of six
