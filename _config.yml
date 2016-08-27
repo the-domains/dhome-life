@@ -6,9 +6,9 @@ color:
   saturation: 0.6490294213872403
   rhythmicContrast: 0.9078155539464206
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#050706'
+    - '#FFFFFF'
+    - '#9CBBD7'
+    - '#2B3B48'
+    - '#475D6B'
 name: dHome Life
