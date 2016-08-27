@@ -1,3 +1,4 @@
+layout_spectrum: 0.7802012795582414
 typography_spectrum: 0.16851529339328408
 color:
   brandStrength: 0.3202773439697921
@@ -5,20 +6,9 @@ color:
   saturation: 0.6490294213872403
   rhythmicContrast: 0.9078155539464206
   brandColors:
-    - '#0B1111'
-    - '#A6CFEF'
-    - '#303F2C'
-    - '#506E8A'
-    - '#FFFFEC'
-layout_spectrum: 0.7802012795582414
-author:
-  email: marco@mdeaservices.tech
-  name: Marco de Andrade
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
 name: dHome Life
-navigation:
-  - name: Where we are...
-    url: >-
-      https://www.google.ca/maps/place/Lacombe,+AB/@52.4741569,-113.754526,5674m/data=!3m1!1e3!4m5!3m4!1s0x5375040ffd48d5b3:0xd6b4de90543de5a9!8m2!3d52.4630512!4d-113.7286242
-    type: external
-title: dHome Life
-description: Adventures of six
